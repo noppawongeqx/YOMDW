@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'supermarketRegular';
+    src: url('supermarket.eot');
+    src: url('supermarket.eot?#iefix') format('embedded-opentype'),
+	      url('supermarket.woff2') format('woff2'),
+         url('supermarket.woff') format('woff'),
+         url('supermarket.ttf') format('truetype'),
+         url('supermarket.svg#supermarketRegular') format('svg');
+}

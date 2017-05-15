@@ -1,0 +1,679 @@
+﻿"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=TIS-620" />
+<title>DW13 ￿￿͢￿ ￿￿￿￿￿￿ͺ ￿￿￿ ￿￿âҴ￿ع Derivative Warrant ￿￿￿￿/title> 
+<link href="../css/keyvisual.css" rel="stylesheet" type="text/css" />
+<link href="../css/glowtabs.css" rel="stylesheet" type="text/css" /> 
+<link href="../css/dropdown.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../css/contents.css" rel="stylesheet" type="text/css" /> 
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+ 
+<script language="javascript">
+function showgraph(){
+	window.open('../../shared/graph/show_imp_graph.asp?dn=AAV13C1706A ','','width=880,height=780,scrollbars=yes');
+}
+
+function print_price(spot){
+	window.open('print_dw_indicative.asp?dn=AAV13C1706A &sp='+spot,'','width=880,height=780');
+} 
+
+</script>
+</head>
+	
+<body id="kgi" oncontextmenu="return false;" oncopy="return false;" ondragstart="return false;" ondrop="return false;" >
+<table width="980" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="120" align="left" valign="top" class="header">
+	 
+
+<!-- 
+***** Comment this when using Promote Plan ************
+<script type="text/javascript" src="http://www.thaiwarrant.com/en/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.thaiwarrant.com/en/js/fancybox/js/jquery-1.10.1.min.js"></script>
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js"></script> 
+--> 
+
+<link href="http://www.thaiwarrant.com/en/css/jquery-ui.css" rel="stylesheet" type="text/css" /> 
+ 
+
+<script type="text/javascript" src="http://www.thaiwarrant.com/en/js/fancybox/js/jquery-1.10.1.min.js"></script> 
+<script type="text/javascript" src="http://www.thaiwarrant.com/shared/js/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="http://www.thaiwarrant.com/shared/js/jquery-ui.1.10.2.js"></script>  
+<script type="text/javascript" src="http://www.thaiwarrant.com/shared/js/jquery.jcarousel.pack.js"></script>  
+<script type="text/javascript" src="http://www.thaiwarrant.com/shared/js/jquery.timers-1.1.2.js"></script>
+
+<script type="text/javascript" src="http://www.thaiwarrant.com/en/js/ddaccordion.js"></script>
+<script type="text/javascript" src="http://www.thaiwarrant.com/en/js/collapse-contents.js"></script>	 
+<script type="text/javascript" src="http://www.thaiwarrant.com/en/js/ddtabmenu.js"></script>
+<script type="text/javascript" src="http://www.thaiwarrant.com/en/js/tab.js"></script>
+
+
+<script>
+
+$(function() {
+var availableTags = ["CPF13C1712A","IVL13C1710A","GPSC13C1710A","WHA13C1710A","ADVA13C1710A","GL13C1710A","KCE13C1710A","PTG13C1710A","BCH13C1710A","UNIQ13C1710A","THAI13C1710A","KCE13C1709A","ERW13C1709A","STPI13C1709A","BANP13C1709A","WORK13C1709A","CBG13C1709A","MINT13C1709A","BDMS13C1709A","TASC13C1709A","TRUE13C1709A","KKP13C1709A","GL13C1709A","BEAU13C1709A","CK13C1709A","VIBH13C1709A","PTG13C1709A","JAS13C1709A","LPN13C1709A","PTTE13C1709A","TISC13C1709A","BLA13C1709A","PTTE13C1708A","AOT13C1708A","CHG13C1708A","TPIP13C1708A","DTAC13C1708A","PTT13C1708A","SAMA13C1708A","THCO13C1708A","SCC13C1708A","KTC13C1708A","CBG13C1708A","CPAL13C1708A","IRPC13C1708A","GUNK13C1708A","CPF13C1708A","TTA13C1707A","TKN13C1707A","IVL13C1707A","SPRC13C1707A","JAS13C1707A","ADVA13C1707A","PTT13C1707A","IRPC13C1707A","BEM13C1707A","BA13C1707A","BCH13C1707A","CKP13C1707A","GL13C1707A","ITD13C1707A","S5013C1706D","S5013C1706A","S5013C1706C","S5013C1706B","JAS13C1706A","UV13C1706A","PLAT13C1706A","GUNK13C1706A","GPSC13C1706A","STEC13C1706A","MTLS13C1706A","SAWA13C1706A","AAV13C1706A","EPG13C1706A","GL13C1706A","KCE13C1706A","TRUE13C1706A","BTS13C1706A","THAI13C1706A","VGI13C1706A","TASC13C1706A","BBL13C1706A","TPIP13C1706A","UNIQ13C1706A","ITD13C1706A","VNG13C1706A","SCB13C1705A","TOP13C1705A","KBAN13C1705A","BANP13C1705A","PTTG13C1705A","ADVA13C1705A","PTT13C1705A","CPF13C1705A","INTU13C1705A","KTB13C1705A","SCC13C1705A","IVL13C1705A","S5013C1705A","TISC13C1704A","THAI13C1704A","IFEC13C1704A","BANP13C1704A","TTA13C1704A","STEC13C1704A","WHA13C1704A","BEAU13C1704A","STPI13C1704A","IVL13C1704A","DTAC13C1704A","MTLS13C1704A","BANP13P1712A","ADVA13P1711A","IVL13P1710A","CBG13P1709A","AOT13P1708A","DTAC13P1708A","S5013P1706C","S5013P1706B","S5013P1706A","S5013P1706D","TRUE13P1706A","BBL13P1706A","AOT13P1706A","SCC13P1705A","ADVA13P1705A","KBAN13P1705A","SCB13P1705A","PTT13P1705A","PTTE13P1705A","S5013P1705A","BANP13P1704A","DTAC13P1704A"];
+
+$( "#q_dwname" ).autocomplete({
+source: availableTags
+});
+});
+
+$(function() {
+var underlyingTags = ["AAV","ADVANC","AOT","BA","BANPU","BBL","BCH","BDMS","BEAUTY","BEM","BLA","BTS","CBG","CHG","CK","CKP","CPALL","CPF","DTAC","EPG","ERW","GL","GPSC","GUNKUL","IFEC","INTUCH","IRPC","ITD","IVL","JAS","KBANK","KCE","KKP","KTB","KTC","LPN","MINT","MTLS","PLAT","PTG","PTT","PTTEP","PTTGC","SAMART","SAWAD","SCB","SCC","SET50","SPRC","STEC","STPI","TASCO","THAI","THCOM","TISCO","TKN","TOP","TPIPL","TRUE","TTA","UNIQ","UV","VGI","VIBHA","VNG","WHA","WORK"];
+
+$("#q_ulname").autocomplete({
+source: underlyingTags
+});
+ 
+if($("#ulname") != undefined){
+	$("#ulname").autocomplete({
+	source: underlyingTags
+});
+}
+
+});
+</script>
+  
+<!-- Google Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34410733-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- End of Google Analytics -->
+
+<script type="text/javascript">
+	function openwindow(url,size){
+		window.open(url,size);
+	} 
+	
+	function getgoogle() {
+		window.location = "http://www.thaiwarrant.com/en/search/search.asp?q="+document.getElementById("q").value;
+	}
+
+	function getstock() {
+		document.myform.submit();		
+	}
+	 	
+	function get_text_clear(obj){ 
+		 obj.value = ""; 
+		 onKeySearch(obj);
+	}			
+	function onKeySearch(field)
+	{
+		if(field.id == "q_ulname"){
+			if(field.value != ""){ 
+				document.all('q_dwname').value = "";
+				document.all('q_dwname').disabled = true;
+				document.all('q_dwname').style.backgroundColor = "#C8C7C8";
+				document.all('q_dwname').style.border = "1px solid #B4B3B5"
+			}
+			else{
+				document.all('q_dwname').disabled = false;
+				document.all('q_dwname').style.backgroundColor = "white";
+				document.all('q_dwname').style.border = "1px solid #B4B3B5";
+			}
+		}
+		else if(field.id == "q_dwname"){
+			if(field.value != ""){
+				document.all('q_ulname').value = "";
+				document.all('q_ulname').disabled = true;
+				document.all('q_ulname').style.backgroundColor = "#C8C7C8";
+				document.all('q_ulname').style.border = "1px solid #B4B3B5";
+			}
+			else{
+				document.all('q_ulname').disabled = false;
+				document.all('q_ulname').style.backgroundColor = "white";
+				document.all('q_ulname').style.border = "1px solid #B4B3B5";
+			}
+				
+		}
+		
+		return true;
+	}
+	function onKeyPressSearch(field,event){
+		if (event.keyCode == 13) {
+			if(field.id == "q_ulname"){
+				document.all('submit_ul').focus();
+				document.all('submit_ul').click();
+			}
+			else if(field.id == "q_dwname"){
+				document.all('submit_dw').focus();
+				document.all('submit_dw').click(); 
+			}
+			return false;
+		}
+		else { 
+			return true;
+		}
+	}
+	
+</script>
+
+
+
+<style>
+	.tb_border tr td{border:0px solid;} 
+	.btn_search{cursor:pointer; background:url(http://www.thaiwarrant.com/en/images/searchbar_btn_search.png) no-repeat;margin:0; height:27px; border:0px;border-style:none;}
+	.btn_search_hover{cursor:pointer;background:url(http://www.thaiwarrant.com/en/images/searchbar_btn_search_mouseover.png) no-repeat; margin:0; height:27px; border:0px;border-style:none;}   
+</style>
+
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" class='tb_border'>
+        <tr>
+          <td width="25%" height="120" align="left" valign="middle"><a href="http://www.thaiwarrant.com/en/index.asp"><img src="http://www.thaiwarrant.com/en/../shared/images/logo.png" /></a></td>
+          <td width="75%" align="right" valign="top">
+		  
+		  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="28" align="right" valign="middle">
+
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" class="shortcuts">
+                    <tr valign="bottom">
+                      <td align="right">
+					  TEL<span class="tel">0 2658 8924</span>
+					  EMAIL<span class="tel">ed-mkt@kgi.co.th</span><img src="http://www.thaiwarrant.com/shared/images/icon-line.png"><a href="http://line.me/ti/p/%40dw13" target="_blank" title="Line ID: DW_13"><span class="tel">@DW13</span></a>		  
+					  </td> 
+					  <td valign="bottom"><a href="http://www.facebook.com/ed.kgi" target="_blank"><img src="http://www.thaiwarrant.com/shared/images/icon_facebook.png"  title="www.facebook.com/ed.kgi" alt="" width="22" height="22"></a></td> 
+					  <td>
+					  <a href="../../th/kgi-dw/template.asp?dw_name=AAV13C1706A%20&color=1">
+					  <span class="white" style="padding:0px 5px 0px 20px">TH</span></a>|<a href="/en/kgi-dw/template.asp?dw_name=AAV13C1706A%20&color=1"><span class="orange" style="padding:0px 5px 0px 5px">EN</span></a>
+					  </td>					  
+                    </tr>
+                  </table>
+								  
+				  </td>
+              </tr>
+              <tr>
+                <td height="45" align="right" valign="middle"> 
+
+	<script type="text/javascript">
+	function get_search(act){
+		document.myform.action=act;
+		document.myform.submit();		
+	}
+	</script>
+				<form name="myform" method="GET" action="?">
+				<input type="hidden" value="true" name="check_search">
+				<table width="550" border="0" cellspacing="0" cellpadding="0" class="searchbar">                
+                    <tr>
+					
+						<td width="400" height="43" align="left" valign="middle">
+							<span>DW Search</span>
+							<input type="text" name="q_dwname" id="q_dwname" value="DW Quote" onclick="get_text_clear(this);" onblur="this.value = this.value.toUpperCase();onKeySearch(this);" onKeyUp="onKeySearch(this);" onKeyPress="return onKeyPressSearch(this, event)" autocomplete="false" /> 
+							<input type="button" id="submit_dw" name="submit_dw" value=" " style="width:42px;" onclick="get_search('http://www.thaiwarrant.com/en/dw/search.asp');" class="btn_search" onmouseout="this.className='btn_search'" onmouseover="this.className='btn_search_hover'"    /> 
+						</td>
+                      
+						<td width="400" align="left" valign="middle">
+							<!--<span>TW Search</span>
+							<input type="text" name="q" id="q" value="Keyword Search..." onclick="get_text_clear(this);" onKeyPress="return onKeyPressSearch(this, event)"   /> 
+							<input type="button" id="submit_web" name="submit_web" value="" style="width:42px;" onclick="getgoogle();" class="btn_search" onmouseout="this.className='btn_search'" onmouseover="this.className='btn_search_hover'"  tabindex="1" />  
+							-->
+							<span>UL Search</span>
+							
+							<input type="text" name="q_ulname" id="q_ulname" value="UL Quote" onclick="get_text_clear(this);" onblur="this.value = this.value.toUpperCase();onKeySearch(this);" onKeyUp="onKeySearch(this);" onKeyPress="return onKeyPressSearch(this, event)" autocomplete="false" /> 
+							<input type="button" id="submit_ul" name="submit_ul" value=" " style="width:42px;" onclick="get_search('http://www.thaiwarrant.com/en/dw/search.asp');" class="btn_search" onmouseout="this.className='btn_search'" onmouseover="this.className='btn_search_hover'"    /> 
+
+						</td>
+					
+                    </tr>
+                  </table>
+                  </form>
+
+                  </td>
+
+				  <td rowspan='2' align="center"><div style="margin-top:-20px; color:white"  >Click</div>
+				  <div style="margin-top: 25px"><a href="http://line.me/ti/p/%40dw13" target="_blank" title="Line ID: DW_13"><img src="http://www.thaiwarrant.com/shared/images/icon-line-dw-13-large.gif" width="65" height="65" style='padding-left:10px; margin-top:-25px; z-index: 99999;'></a></div>
+				</td>
+              </tr>
+              <tr>
+                <td align="right" valign="middle">
+				
+				
+				<div id="menu">
+                    <ul>
+                      <li><a class="hide nav_01" href="http://www.thaiwarrant.com/en/index.asp">Home</a> 
+                      </li>					
+
+                      <li><a class="hide nav_02" href="http://www.thaiwarrant.com/en/kgi-dw/highlight.asp" >KGI DW13</a>
+                        <!--[if lte IE 6]>
+<a href="../mozilla/index.html">MOZILLA
+<table><tr><td>
+<![endif]-->
+						<ul> 
+						  <li><a href="http://www.thaiwarrant.com/en/kgi-dw/highlight.asp">DW13 Highlight</a></li>
+						  <li><a href="http://www.thaiwarrant.com/en/kgi-dw/dw-511.asp">DW-511</a></li>
+                          <li><a href="http://www.thaiwarrant.com/en/kgi-dw/index.asp">New DW13</a></li>
+						  <li><a href="http://www.thaiwarrant.com/en/kgi-dw/outstanding.asp">Existing DW13</a></li>
+                        </ul>
+						 
+                        <!--[if lte IE 6]>
+</td></tr></table>
+</a>
+<![endif]-->
+                      </li>
+
+
+
+                      <li><a class="hide nav_03" href="http://www.thaiwarrant.com/en/dw/search.asp" >DW Info</a>
+                        <!--[if lte IE 6]>
+<a href="../mozilla/index.html">MOZILLA
+<table><tr><td>
+<![endif]--> 
+                        <ul>
+                          <li><a href="http://www.thaiwarrant.com/en/dw/search.asp">DW Search & Compare </a></li>
+                          <li><a href="http://www.thaiwarrant.com/en/dw/calculator-byul.asp">DW Calculator</a></li>
+						  <!--li><a href="http://www.thaiwarrant.com/en/dw/all-dw.asp">All DW</a></li>
+						  <li><a href="http://www.thaiwarrant.com/en/calendar/index.asp">DW Calendar</a></li-->
+						  <li><a href="http://www.thaiwarrant.com/en/report/index.asp">DW Report</a></li>
+						  <li><a href="http://www.thaiwarrant.com/en/aboutus/terms-conditions.asp">Terms and Conditions</a></li>
+                        </ul>						
+                        <!--[if lte IE 6]>
+</td></tr></table>
+</a>
+<![endif]-->
+                      </li>
+					  
+					  
+                      <li><a class="hide nav_04" href="http://www.thaiwarrant.com/en/knowledge/whatsdw.asp">DW Knowledge</a>
+                        <!--[if lte IE 6]>
+<a href="../mozilla/index.html">MOZILLA
+<table><tr><td>
+<![endif]-->
+                        <ul>
+						  <li><a href="http://www.thaiwarrant.com/en/knowledge/articles.asp">Articles</a></li>
+                          <li><a href="http://www.thaiwarrant.com/en/knowledge/whatsdw.asp">What's DW</a></li>
+                          <li><a href="http://www.thaiwarrant.com/en/knowledge/dw-in-foreign-market.asp">DW in Foreign Market</a></li>						  
+                          <li><a href="http://www.thaiwarrant.com/en/knowledge/glossary.asp">Glossary</a></li>
+                          <li><a href="http://www.thaiwarrant.com/en/knowledge/faq.asp">FAQ</a></li>		
+                        </ul>
+                        <!--[if lte IE 6]>
+</td></tr></table>
+</a>
+<![endif]-->
+                      </li>
+					  
+					  
+                      <li><a class="hide nav_05" href="http://www.thaiwarrant.com/en/sn/eln.asp" >Structured Note</a>
+                        <!--[if lte IE 6]>
+<a href="../mozilla/index.html">MOZILLA
+<table><tr><td>
+<![endif]-->
+                        <ul> 
+  						  <li><a href="http://www.thaiwarrant.com/en/sn/eln.asp">Equity Linked Note</a></li>
+                          <li><a href="http://www.thaiwarrant.com/en/sn/sn-overview.asp">SN Overview</a></li>
+                          <li><a href="http://www.thaiwarrant.com/en/sn/sn-strategy.asp">SN Strategy</a></li>
+						  <!--<li><a href="http://www.thaiwarrant.com/en/sn/equity-limited-note.asp">SN Products</a></li>-->
+						  <li><a href="http://www.thaiwarrant.com/en/sn/qualified-investor.asp">Qualified Investor</a></li>
+                        </ul>
+                        <!--[if lte IE 6]>
+</td></tr></table>
+</a>
+<![endif]-->
+                      </li>					  					  
+					  
+					  
+                      <li><a class="hide nav_06" href="http://www.thaiwarrant.com/en/contactus/contact.asp">Contact Us</a>
+                        <!--[if lte IE 6]>
+<a href="../mozilla/index.html">MOZILLA
+<table><tr><td>
+<![endif]-->		
+                        <ul>
+                          <li><a href="http://www.thaiwarrant.com/en/aboutus/kgi-info.asp">KGI Infomation</a></li>
+                          <li><a href="http://www.thaiwarrant.com/en/aboutus/ed-info.asp">ED Infomation</a></li>
+						  <li><a href="http://www.thaiwarrant.com/en/aboutus/disclaimer.asp">Disclaimer</a></li>
+						  <li><a href="http://www.thaiwarrant.com/en/contactus/contact.asp">Contact KGI</a></li>
+                        </ul>
+                        <!--[if lte IE 6]>
+</td></tr></table>
+</a>
+<![endif]-->
+                      </li>			
+					  
+					  			  
+                    </ul>
+                  </div>
+				  
+				  </td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>	
+
+
+	</td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"></td>
+  </tr>
+  
+  <tr>
+    <td align="left" valign="top">
+	
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td class="loginbar">
+		  	  
+		  						<style>
+						.list_width0 ul li{width:290px; border:0px solid #000;}
+						.list_width1 ul li{width:220px; border:0px solid #000;}
+						.list_width2 ul li{width:175px; border:0px solid #000;}
+
+						/* Control position Top Ads*/
+						.top_ads_main{
+							border:0px solid #ccc; 
+							display:block; 
+							position:relative; 
+							height:170px; 
+							width:1000px;
+						}
+						.top_ads{
+							border:0px solid #d6d6d6;
+							width:980px; 
+							height:0px; 
+							top:-20px;
+							margin-bottom:0px;
+							position:relative; 
+							display:block;
+							text-align:center;
+						}
+
+						/* Control position Menu2*/
+						.div_menu3{
+							border:0px solid red; 
+							top:2px;	/* position menu2 */
+							display:block;
+							position:relative;
+						}
+
+					</style>
+
+					<div class='top_ads_main'>	
+						<div class="top_ads">
+							  <div style="border:0px solid #ccc; width:980px; height:120px; text-align:center;padding-top:16px;">
+								
+								<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="980" height="120">
+									<param name="movie" value="../../shared/images/25-oct-2013.swf" />
+									<param name="quality" value="high" />
+									<param name="wmode" value="opaque" />
+									<embed src="../../shared/images/25-oct-2013.swf" quality="high" wmode="opaque" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="980" height="120"></embed>
+								</object>
+								
+							</div>
+						</div>   
+						<div class='loginbar3'>
+							  <table border="0" cellpadding="0" cellspacing="0">
+								<tr>
+									<td>
+										<div id="menu3" class="div_menu3">
+										<ul>
+										  <li class="list_width0"><a class="hide nav3_00" href="http://www.thaiwarrant.com/en/kgi-dw/outstanding.asp">KGI DW13</a></li>
+										  <li class="list_width1"><a class="hide nav3_01" href="http://www.thaiwarrant.com/en/dw/search.asp">DW Compare</a></li>
+										  <li class="list_width2"><a class="hide nav3_02" href="http://www.thaiwarrant.com/en/dw/calculator-byul.asp">DW Calculator</a></li>
+										  <li class="list_width3"><a class="hide nav3_03" href="http://www.thaiwarrant.com/en/kgi-dw/highlight.asp">DW Highlight</a></li>
+										  <li class="list_width4"><a class="hide nav3_04" href="http://www.thaiwarrant.com/en/kgi-dw/dw-511.asp">DW 05-11</a></li>
+										</ul>             
+										</div>                        
+									</td>
+									<!--<td>
+									  <style>
+										.line_dw{ border:0px solid #ccc; width:98px; height:78px; position:absolute; display:block; float:right; top:0px;}
+										.line_dw img{ border:none;}
+									  </style>
+									  <div class="line_dw">
+										<a href="http://www.thaiwarrant.com/en/../shared/images/icon-line-dw-13-large.gif" target="_blank" title="Line ID: DW_13">
+										<img src="http://www.thaiwarrant.com/en/../shared/images/icon-line-dw-13.gif"/></a>
+									  </div>                        
+									</td>-->
+								</tr>
+							  </table>
+						</div>
+					</div>
+					
+
+
+
+
+				<!--
+					<style>
+						.list_width0 ul li{width:290px; border:0px solid #000;}
+						.list_width1 ul li{width:220px; border:0px solid #000;}
+						.list_width2 ul li{width:175px; border:0px solid #000;}
+
+						/* Control position Top Ads*/
+						.top_ads_main{
+							border:0px solid #ccc; 
+							display:block; 
+							position:relative; 
+							height:170px; 
+							width:980px;
+						}
+						.top_ads{
+							border:0px solid #d6d6d6;
+							width:980px; 
+							height:0px; 
+							top:-20px;
+							margin-bottom:0px;
+							position:relative; 
+							display:block;
+							text-align:center;
+						}
+
+						/* Control position Menu2*/
+						.div_menu2{
+							border:0px solid red; 
+							top:2px;	/* position menu2 */
+							display:block;
+							position:relative;
+						}
+
+					</style>
+					
+
+					<div class='top_ads_main'>	
+                    	
+                    <div class="top_ads">
+						  <div style="border:0px solid #ccc; width:980px; height:120px; text-align:center;padding-top:16px;">
+							
+							  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="980" height="120" title="DW Indicative">
+								<param name="movie" value="../../shared/images/25-oct-2013.swf" />
+								<param name="quality" value="high" />
+								<param name="wmode" value="opaque" />
+								<embed src="../../shared/images/25-oct-2013.swf" quality="high" wmode="opaque" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="980" height="120"></embed>
+							</object>
+							
+						</div>
+                    </div>  
+
+					<div class='loginbar3'>
+
+					<div id="menu2" class="div_menu2">		
+                    <ul>
+                      <li><a class="hide nav2_00" href="http://www.thaiwarrant.com/en/">SN</a>
+					  <ul>
+						  <li><a href="http://www.thaiwarrant.com/en/dw/calculator-byul.asp">DW Calculator</a></li>				
+                        </ul>						
+                      </li>					  	
+
+                      <li><a class="hide nav2_01" href="http://www.thaiwarrant.com/en/sn/sn-overview.asp">SN</a>
+                        <ul>
+						  <li><a href="http://www.thaiwarrant.com/en/sn/sn-overview.asp">SN Overview</a></li>
+						  <li><a href="http://www.thaiwarrant.com/en/sn/sn-strategy.asp">SN Strategy</a></li>
+						  <li><a href="http://www.thaiwarrant.com/en/sn/equity-limited-note.asp">SN Products</a></li>
+						  <li><a href="http://www.thaiwarrant.com/en/sn/qualified-investor.asp">Qualified Investor</a></li>		
+                        </ul>						
+                      </li>					  	
+                      
+                      <li><a class="hide nav2_02" href="http://www.thaiwarrant.com/en/#">ETF</a>
+                        <ul>
+                          <li><a href="http://www.kgieworld.co.th/th/ETF/TDEX_50_ETF.asp" target="_blank">TDEX</a></li>
+						  <li><a href="http://www.kgieworld.co.th/th/ETF/ETF_main.asp" target="_blank">TH100</a></li>
+						  <li><a href="http://www.kgieworld.co.th/th/ETF/TDEX_FTSE_ETF.asp" target="_blank">1DIV</a></li>
+						  <li><a href="http://www.kgieworld.co.th/th/ETF/ETF_HK.asp" target="_blank">HK</a></li>
+                        </ul>						
+                      </li>
+                      
+                    </ul>
+                  </div>
+				  </div>
+				  
+			</div>
+			-->			
+			
+			</td>
+        </tr>	
+      </table>
+	  
+	  </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+	<div style="position:relative;">
+		          <div id="accordion" style="position:absolute;left:0;right:0;z-index:1100;height:340px;">
+
+		<table width="980" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="15" height="35">&nbsp;</td>
+              <td width="307">&nbsp;</td>
+              <td width="16">&nbsp;</td>
+              <td width="305">&nbsp;</td>
+              <td width="15">&nbsp;</td>
+              <td width="307">&nbsp;</td>
+              <td width="15">&nbsp;</td>
+            </tr>
+            <tr>
+              <td height="102">&nbsp;</td>
+              <td align="left" valign="top" class="cont up"><table width="280" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="26%" rowspan="3" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td height="25" valign="middle"><img src="http://www.thaiwarrant.com/en/images/accordion_icon_web.gif" /></td>
+                        </tr>
+                        <tr>
+                          <td><img src="http://www.thaiwarrant.com/en/images/accordion_icon_logo_strm.gif" /></td>
+                        </tr>
+                      </table></td>
+                    <td height="25" class="txt_header">STREAMING PRO</td>
+                  </tr>
+                  <tr>
+                    <td width="74%">Multi-Market Trading Able to Equity and Derivatives markets. </td>
+                  </tr>
+                  <tr>
+                    <td height="25" class="link"><a href="http://www.thaiwarrant.com/en/howto/streaming.asp">CLICK</a></td>
+                  </tr>
+                </table></td>
+              <td>&nbsp;</td>
+              <td align="left" valign="top" class="cont up"><table width="280" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="26%" rowspan="3" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td height="25" valign="middle"><img src="http://www.thaiwarrant.com/en/images/accordion_icon_info.gif" /></td>
+                        </tr>
+                        <tr>
+                          <td><img src="http://www.thaiwarrant.com/en/images/accordion_icon_logo_research.gif" /></td>
+                        </tr>
+                      </table></td>
+                    <td height="25" class="txt_header">KGI RESEARCH</td>
+                  </tr>
+                  <tr>
+                    <td width="74%">Research Paper, Top Chart, Market Outlook and more. </td>
+                  </tr>
+                  <tr>
+                    <td height="25" class="link"><a href="http://www.thaiwarrant.com/en/research/research-paper.asp">CLICK</a></td>
+                  </tr>
+                </table></td>
+              <td>&nbsp;</td>
+              <td align="left" valign="top" class="cont up"><table width="280" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="26%" rowspan="3" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td height="25" valign="middle"><img src="http://www.thaiwarrant.com/en/images/accordion_icon_mb.gif" /></td>
+                        </tr>
+                        <tr>
+                          <td><img src="http://www.thaiwarrant.com/en/images/accordion_icon_logo_mb.gif" /></td>
+                        </tr>
+                      </table></td>
+                    <td height="25" class="txt_header">Mobile Phone Trading </td>
+                  </tr>
+                  <tr>
+                    <td width="74%">Buy/Sell investment products, check order status and check portfolio on mobile. </td>
+                  </tr>
+                  <tr>
+                    <td height="25" class="link"><a href="http://www.thaiwarrant.com/en/howto/mobile-trading.asp">CLICK</a></td>
+                  </tr>
+                </table></td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td height="102">&nbsp;
+                &nbsp;</td>
+              <td align="left" valign="top" class="cont down"><table width="280" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="26%" rowspan="3" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td height="25" valign="middle"><img src="http://www.thaiwarrant.com/en/images/accordion_icon_web.gif" /></td>
+                        </tr>
+                        <tr>
+                          <td><img src="http://www.thaiwarrant.com/en/images/accordion_icon_logo_ifis.gif" /></td>
+                        </tr>
+                      </table></td>
+                    <td height="25" class="txt_header">iFIS Internet</td>
+                  </tr>
+                  <tr>
+                    <td width="74%"> Market Trading and Monitor your stocks in real-time.</td>
+                  </tr>
+                  <tr>
+                    <td height="25" class="link"><a href="http://ifis1.kgi.co.th/" target="_blank">CLICK</a></td>
+                  </tr>
+                </table></td>
+              <td>&nbsp;</td>
+              <td align="left" valign="top" class="cont down"><table width="280" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="26%" rowspan="3" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td height="25" valign="middle"><img src="http://www.thaiwarrant.com/en/images/accordion_icon_info.gif" /></td>
+                        </tr>
+                        <tr>
+                          <td><img src="http://www.thaiwarrant.com/en/images/accordion_icon_logo_liberty.gif"/></td>
+                        </tr>
+                      </table></td>
+                    <td height="25" class="txt_header">Bisnews Liberty</td>
+                  </tr>
+                  <tr>
+                    <td width="74%"> Access to market news and information from Reuters, Bisnews.</td>
+                  </tr>
+                  <tr>
+                    <td height="25" class="link"><a href="http://www.thaiwarrant.com/en/howto/liberty-i-help.asp">CLICK</a></td>
+                  </tr>
+                </table></td>
+              <td>&nbsp;</td>
+			  <td align="left" valign="top" class="cont down">
+			  <table width="280" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="26%" rowspan="3" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td height="25" valign="middle"><img src="http://www.thaiwarrant.com/en/images/accordion_icon_info.gif" /></td>
+                        </tr>
+                        <tr>
+                          <td><img src="http://www.thaiwarrant.com/en/images/accordion_icon02.gif" /></td>
+                        </tr>
+                      </table></td>
+                    <td height="25" class="txt_header">Trading Portfolio</td>
+                  </tr>
+                  <tr>
+                    <td width="74%">Infomation in your account tradding of KGI.</td>
+                  </tr>
+                  <tr>
+                    <td"
